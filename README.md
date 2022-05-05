@@ -6,6 +6,8 @@ Competencia de la asignatura Mineria de Datos en [Kaggle](https://www.kaggle.com
 
 Dataset de base: [Properati AR](https://www.properati.com.ar/data)
 
+- [Ver Changelog](CHANGELOG.md)
+
 ## Setup inicial
 
 1. Clonar repositorio con VSCode
