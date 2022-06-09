@@ -1,0 +1,284 @@
+,0
+000,17
+000 apto,0
+000 departamento,1
+000 departamento venta,1
+100,30
+200,36
+2amb,0
+3amb,0
+4amb,0
+500,19
+900,19
+abierta,0
+aires,1
+almagro,58
+alto,0
+amb,21
+amb balcon,5
+amb cochera,1
+amb dep,0
+amb patio,6
+ambiente,0
+ambiente venta,0
+ambientes,9
+ambientes balcon,3
+ambientes belgrano,0
+ambientes cochera,1
+ambientes dependencia,0
+ambientes estrenar,0
+ambientes frente,1
+ambientes palermo,0
+ambientes patio,0
+ambientes terraza,1
+ambientes venta,0
+ambientes venta almagro,0
+ambientes venta palermo,0
+ambientes venta villa,0
+ambientes venta villa crespo,0
+ambientes villa,0
+amenities,0
+amplio,0
+apto,1
+apto prof,1
+apto profesional,0
+av,122
+bajas,0
+bajas expensas,0
+balcon,10
+balcon cochera,0
+balcon frente,1
+balcon terraza,2
+balvanera,34
+banos,324
+barracas,39
+barrio,2
+barrio norte,2
+baulera,3
+belgrano,119
+belgrano capital,0
+belgrano capital federal,0
+boedo,21
+buenos,1
+buenos aires,1
+caballito,77
+caballito capital,0
+caballito capital federal,0
+canitas,0
+capital,0
+capital federal,0
+capital federal buenos,0
+capital federal buenos aires,0
+casa,0
+casa ambientes,0
+categoria,0
+chacabuco,5
+chico,1
+coch,0
+cochera,4
+cochera baulera,1
+cochera fija,0
+cocheras,0
+coghlan,3
+colegiales,27
+congreso,4
+contrafrente,0
+crespo,58
+cristobal,10
+cristobal capital,0
+cristobal capital federal,0
+dep,0
+departamento,835
+departamento almagro,0
+departamento amb,0
+departamento ambiente,0
+departamento ambiente venta,0
+departamento ambientes,3
+departamento ambientes balcon,2
+departamento ambientes venta,0
+departamento ambientes venta almagro,0
+departamento ambientes venta palermo,0
+departamento ambientes venta villa,0
+departamento belgrano,0
+departamento caballito,0
+departamento monoambiente,0
+departamento palermo,0
+departamento recoleta,0
+departamento venta,832
+departamento venta ambientes,0
+departamento venta belgrano,107
+departamento venta belgrano capital,0
+departamento venta caballito,51
+departamento venta caballito capital,0
+departamento venta palermo,182
+departamento venta palermo capital,0
+departamento venta san,45
+departamento venta san cristobal,6
+departamento venta ubicado,0
+departamento venta usd,0
+departamento venta villa,91
+departamento venta villa urquiza,19
+departamento villa,0
+dependencia,0
+depto,12
+depto amb,10
+depto ambientes,1
+depto tipo,0
+devoto,18
+divisible,0
+dormitorios,599
+dos,0
+dos ambientes,0
+dpto,1
+dpto amb,0
+duplex,3
+edificio,0
+emprendimiento,0
+espectacular,0
+estrenar,1
+excelente,1
+excelente ambientes,0
+excelente departamento,0
+excelente ubicacion,0
+expensas,1
+federal,0
+federal buenos,0
+federal buenos aires,0
+fija,0
+flores,36
+floresta,14
+frente,4
+frente balcon,0
+full,0
+full amenities,0
+gran,0
+hermoso,1
+hollywood,3
+impecable,0
+jardin,1
+juan,21
+lavadero,5
+libertador,11
+liniers,4
+luminoso,0
+luro,6
+luz,0
+m2,1133
+madero,21
+mataderos,2
+monoambiente,2
+monoambiente balcon,1
+monoambiente venta,1
+monserrat,17
+mts,0
+norte,6
+nuevo,0
+nunez,41
+oportunidad,0
+palermo,218
+palermo capital,0
+palermo capital federal,0
+palermo chico,1
+palermo hollywood,3
+palermo soho,0
+parque,33
+parrilla,3
+patio,10
+pb,3
+ph,276
+ph amb,8
+ph ambientes,0
+ph venta,265
+pileta,0
+piso,14
+piso alto,0
+pozo,0
+prof,1
+profesional,0
+propia,0
+puerto,19
+puerto madero,19
+pueyrredon,10
+reciclado,0
+recoleta,100
+recoleta capital,0
+recoleta capital federal,0
+renta,0
+retasado,0
+retiro,5
+rio,5
+saavedra,24
+san,73
+san cristobal,10
+san cristobal capital,0
+san cristobal capital federal,0
+san telmo,25
+santa,13
+semipiso,0
+semipiso ambientes,0
+soho,0
+suite,0
+super,0
+telmo,25
+terraza,10
+terraza propia,0
+tipo,0
+tipo casa,0
+tipo casa ambientes,0
+torre,2
+tres,2
+tres ambientes,0
+ubicacion,0
+ubicado,0
+urquiza,37
+urquiza capital,0
+urquiza capital federal,0
+usd,4
+venta,1100
+venta almagro,57
+venta amb,0
+venta ambientes,1
+venta balvanera,34
+venta barrio,2
+venta barrio norte,2
+venta belgrano,113
+venta belgrano capital,0
+venta belgrano capital federal,0
+venta caballito,74
+venta caballito capital,0
+venta caballito capital federal,0
+venta colegiales,27
+venta departamento,0
+venta departamento amb,0
+venta departamento ambientes,0
+venta depto,0
+venta depto amb,0
+venta flores,36
+venta monoambiente,0
+venta palermo,208
+venta palermo capital,0
+venta palermo capital federal,0
+venta ph,0
+venta ph ambientes,0
+venta recoleta,96
+venta san,50
+venta san cristobal,10
+venta san cristobal capital,0
+venta ubicado,0
+venta usd,0
+venta villa,154
+venta villa crespo,58
+venta villa urquiza,34
+venta villa urquiza capital,0
+villa,157
+villa crespo,58
+villa devoto,18
+villa luro,6
+villa parque,12
+villa pueyrredon,5
+villa urquiza,37
+villa urquiza capital,0
+villa urquiza capital federal,0
+vista,1
+vista abierta,0
+zona,0

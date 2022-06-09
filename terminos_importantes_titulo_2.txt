@@ -1,0 +1,4 @@
+"balcon terraza", "monoambiente", "torre", "tres", "ambientes balcon", "baulera",
+"duplex", "parrilla", "pb", "cochera", "frente", "amb balcon", "lavadero", "rio",
+"amb patio", "ph amb", "balcon", "patio", "terraza", "libertador", "depto", "piso",
+"av", "ph", "banos", "dormitorios", 
