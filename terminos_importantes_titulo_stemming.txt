@@ -1,0 +1,4 @@
+"monoambient", "torr", "tres", "tres ambient", "dos ambient", "bauler",
+"duplex", "parrill", "pb", "cocher", "cocher fij", "frent", "frent",
+"lavader", "rio", "balcon", "pati", "terraz", "terraz propi", "libert",
+"dept", "pis", "pis alto", "pozo", "av", "ph", "ban", "dormitori", 
